@@ -4,7 +4,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeleshishu&label=Profile%20views&color=0e75b6&style=flat" alt="neeleshishu" /> </p>
 
-- 🔭 I’m currently working on **Code-Prep Website for Student**
+- 🔭 I’m currently working on **Code-Prep Website for Students**
 
 - 🌱 I’m currently learning **Back-End Development**
 
