@@ -2,7 +2,7 @@
 )]
 <h1 align="center">Hi 👋, I'm Neelesh Tiwari</h1>
 <h3 align="center">A passionate Web developer and Software Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3601eb4fac4d9725a2ff9b068d3b1c1931496a0c99a9a1e9adc54971dd2c1138/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f6d656469612f37656437643563613037346234386233323831353065356132333165386431662e676966
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeleshishu&label=Profile%20views&color=0e75b6&style=flat" alt="neeleshishu" /> </p>
 
