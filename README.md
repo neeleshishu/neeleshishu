@@ -8,17 +8,17 @@
 
 - 🌱 I’m currently learning **Back-End Development**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Code Prep Website**
 
 - 👨‍💻 All of my projects are available at [https://github.com/neeleshishu](https://github.com/neeleshishu)
 
-- 💬 Ask me about **C/C++, Javascript, React js**
+- 💬 Ask me about **C/C++, Javascript, React js, Node js**
 
 - 📫 How to reach me **neeleshishu021@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PMs1u6MvDGCZznv52ifzgrzCrmRaY-ei/view?usp=drivesdk](https://drive.google.com/file/d/1PMs1u6MvDGCZznv52ifzgrzCrmRaY-ei/view?usp=drivesdk)
 
-- ⚡ Fun fact **DSA is not Easy :(**
+- ⚡ Fun fact **I'm Engineer who doesn't know how to repaire bulb that's what my dad says**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
